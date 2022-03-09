@@ -1,8 +1,8 @@
 :root {
-  --red: #C5004A;
-  --darkred: #7F0036;
+  --red: #c5004a;
+  --darkred: #7f0036;
   --lightgray: #e0e0e0;
-  --gray: #C0C0C0;
+  --gray: #c0c0c0;
   --mediumgray: #888;
   --darkgray: #333;
   --navy: #000000;
@@ -24,7 +24,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  font-family: 'ibm_plex_sansregular';
+  font-family: "ibm_plex_sansregular";
   line-height: 27px;
   font-size: 16px;
 }
@@ -58,7 +58,7 @@ a[href]:visited {
 header {
   padding-top: 2rem;
   padding-bottom: 1rem;
-  display:flex;
+  display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
@@ -113,7 +113,7 @@ pre {
   -ms-hyphens: none;
   hyphens: none;
   padding: 1em;
-  margin: .5em 0;
+  margin: 0.5em 0;
   background-color: #f6f6f6;
 }
 .highlight-line {
@@ -136,7 +136,7 @@ pre {
 }
 .highlight-line-active {
   background-color: #444;
-  background-color: hsla(0, 0%, 27%, .8);
+  background-color: hsla(0, 0%, 27%, 0.8);
 }
 .highlight-line-add {
   background-color: #45844b;
@@ -149,11 +149,11 @@ pre {
 .home {
   flex: 1;
   align-self: center;
-  padding: 0 1rem 0 2rem;
+  padding: 0 1rem 0 0;
   float: left;
-  margin: 1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
 }
+
 .home :link:not(:hover) {
   text-decoration: none;
 }
@@ -209,7 +209,7 @@ pre {
 .tmpl-home .postlist-link {
   font-size: 1.2em; /* 19px /16 */
   text-decoration-skip-ink: auto;
-  font-weight: 800;
+  font-weight: 500;
 }
 @media screen and (max-width: 700px) {
   .postlist-item {
@@ -221,7 +221,6 @@ pre {
     width: 45rem;
   }
 }
-
 
 /* Tags */
 .templateClassag {
@@ -255,7 +254,7 @@ a[href].tag:visited {
   font-family: sans-serif;
   text-decoration: none;
   font-style: normal;
-  margin-left: .1em;
+  margin-left: 0.1em;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
@@ -279,7 +278,7 @@ a[href].direct-link:focus:visited,
 
 .post-header h4 {
   margin-top: 0;
-  margin-bottom: .1em;
+  margin-bottom: 0.1em;
 }
 
 .post-body li {
@@ -300,14 +299,14 @@ strong {
   }
   .post-wrapper {
     display: flex;
-    flex-direction: column
+    flex-direction: column;
   }
 }
 
 @media screen and (min-width: 601px) {
   .post-wrapper {
     display: flex;
-    flex-direction: row
+    flex-direction: row;
   }
   .post-toc {
     padding-top: 6.5em;

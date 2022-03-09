@@ -1,15 +1,15 @@
 {
-  "title": "The Hypercore Protocol Blog",
-  "url": "https://blog.hypercore-protocol.org/",
-  "description": "News and thoughts from the Hypercore Protocol team.",
+  "title": "hoony.land Blog",
+  "url": "https://blog.hoony.land/",
+  "description": "hoonyl's thoughts and words",
   "feed": {
-    "subtitle": "News and thoughts from the Hypercore Protocol team.",
+    "subtitle": "",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://blog.hypercore-protocol.org/"
+    "id": "https://blog.hoony.land/"
   },
   "author": {
-    "name": "Andrew Osheroff",
-    "email": "andrewosh@gmail.com"
+    "name": "hoony",
+    "email": "hoonyland.newsletter@gmail.com"
   }
 }
