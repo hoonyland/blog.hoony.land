@@ -82,27 +82,17 @@
   </url>
   
   <url>
-    <loc>https://blog.hoony.land/tags/yoga/</loc>
-    <lastmod>2022-03-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.hoony.land/tags/running/</loc>
-    <lastmod>2022-03-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.hoony.land/tags/poet/</loc>
-    <lastmod>2022-03-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.hoony.land/tags/love/</loc>
     <lastmod>2022-03-09</lastmod>
   </url>
   
   <url>
     <loc>https://blog.hoony.land/tags/year-end/</loc>
+    <lastmod>2022-03-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hoony.land/tags/poet/</loc>
     <lastmod>2022-03-09</lastmod>
   </url>
   
@@ -123,6 +113,16 @@
   
   <url>
     <loc>https://blog.hoony.land/tags/hacking/</loc>
+    <lastmod>2022-03-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hoony.land/tags/yoga/</loc>
+    <lastmod>2022-03-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hoony.land/tags/running/</loc>
     <lastmod>2022-03-09</lastmod>
   </url>
 </urlset>
