@@ -38,9 +38,15 @@ body {
     line-height: 20px;
   }
 }
+
+.tmpl-post {
+  padding-bottom: 2rem;
+}
+
 p:last-child {
   margin-bottom: 0;
 }
+
 p,
 .tmpl-post li,
 pre,
@@ -48,6 +54,7 @@ img,
 video {
   max-width: 45rem;
 }
+
 p,
 a[href] {
   color: var(--blue);
@@ -274,6 +281,10 @@ a[href].direct-link:focus:visited,
 .post-header {
   margin-top: 10px;
   margin-bottom: 30px;
+}
+
+.post-header h1 {
+  line-height: 35px;
 }
 
 .post-header h4 {
