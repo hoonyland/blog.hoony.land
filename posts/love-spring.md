@@ -1,7 +1,7 @@
 ---
 title: "[시] 따뜻함, 봄"
 description: 따뜻한 봄의 기다림이 서린 겨울을 좋아한다던 나는 따뜻함과 봄의 지금을 사랑하고 있다
-date: 2019-05-26
+date: 2022-04-05
 layout: layouts/post.njk
 tags:
   - poet
